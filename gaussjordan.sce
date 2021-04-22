@@ -21,4 +21,4 @@ end
 B=Aug (:,n +1:2*n) ; 
 disp('The Inverse of A is',B); 
 
-//PES1UG19EC326
+
