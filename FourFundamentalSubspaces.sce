@@ -21,5 +21,3 @@ rs= v(1:r, :)';
 disp('Row Space =',rs)
 lns = kernel(A');
 disp('Left Null Space =',lns); 
-
-//PES1UG19EC326
