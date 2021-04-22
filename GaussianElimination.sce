@@ -30,5 +30,3 @@ for i=n-1:-1:1
     end 
 disp('The values.of x,y,z are ',x(3),x(2),x(1)); 
 disp('The pivots are',a(1,1),a(2,2),a(3,3)); 
-
-//PES1UG19EC326
