@@ -17,5 +17,3 @@ for k=1:n
     end 
 disp('Q=',V); 
 
-
-//PES1UG19EC326
