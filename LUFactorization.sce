@@ -18,4 +18,4 @@ disp ('The upper-triangular matrix is-U-=',U)
 L=[1,0,0; a ,1 ,0; b ,c ,1]; 
 disp('The lower triangular matrix is L =',L) 
 
-//PES1UG19EC326
+
