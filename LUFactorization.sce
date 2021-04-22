@@ -1,5 +1,8 @@
 //Factorize the following matrices as A = LU, A=(2 3 1,4 7 5,1 − 2 2 )
 
+clear; 
+close; 
+clc; 
 A = [2 , 3 , 1;4 ,7 , 5;1 , -2 ,2]
 U = A ;
 disp('The given matrix is A=',A)
